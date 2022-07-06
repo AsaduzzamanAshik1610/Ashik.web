@@ -1,6 +1,5 @@
-* {
-    margin: 0px;
-    padding: 0px;
+body {
+    font-family: 'Poppins', sans-serif;
 }
 
 .full-width {
@@ -83,6 +82,7 @@
 .half-width {
     width: 50%;
     font-size: 20px;
+    margin-left: 5%;
 }
 
 .half-width img {
@@ -95,4 +95,29 @@
 
 .iubat {
     display: flex;
+}
+
+.palak {
+    text-align: center;
+    font-size: 25px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.fardin {
+    display: flex;
+
+}
+
+.shimul {
+    width: 50%;
+    font-size: 25px;
+    margin-left: 5%;
+
+}
+
+.tag img {
+    width: 70%;
+    margin-left: 5%;
 }
