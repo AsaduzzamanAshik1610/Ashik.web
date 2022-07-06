@@ -89,11 +89,7 @@ body {
     width: 70%;
 }
 
-.ridoy {
-    display: flex;
-}
-
-.iubat {
+.flexible-container {
     display: flex;
 }
 
@@ -102,11 +98,6 @@ body {
     font-size: 25px;
     margin-left: 20%;
     margin-right: 20%;
-
-}
-
-.fardin {
-    display: flex;
 
 }
 
