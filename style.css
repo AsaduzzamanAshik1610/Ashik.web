@@ -62,10 +62,37 @@
 
 }
 
-.half-width {
-    width: 50%;
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: 700;
+    text-align: center;
 }
 
-half-width img {
+.Afrin {
+    text-align: center;
+}
+
+.asad-full stack {
+    text-align: center;
+}
+
+.half-width {
     width: 50%;
+    font-size: 20px;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.ridoy {
+    display: flex;
+}
+
+.iubat {
+    display: flex;
 }
