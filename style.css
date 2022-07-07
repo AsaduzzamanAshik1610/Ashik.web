@@ -145,8 +145,15 @@ body {
     color: wheat;
 }
 
-.razaul {
+.rezaul {
     background-color: black;
-    width: 100%;
-    margin-left: auto;
+}
+
+#imran {
+    color: red;
+    font-size: 60px;
+}
+
+#akas {
+    color: white;
 }
